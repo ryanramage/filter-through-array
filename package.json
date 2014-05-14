@@ -1,0 +1,25 @@
+{
+  "name": "filter-through-array",
+  "version": "0.0.0",
+  "description": "Filter an array based stream using a filter function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryanramage/filter-through-array.git"
+  },
+  "keywords": [
+    "through"
+  ],
+  "author": "Ryan Ramage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanramage/filter-through-array/issues"
+  },
+  "homepage": "https://github.com/ryanramage/filter-through-array",
+  "dependencies": {
+    "through": "~2.3.4"
+  }
+}
